@@ -1,0 +1,11 @@
+
+Directory temp was created
+Directory test was created
+Directory res was created
+Directory vectors was created
+Directory savegames was created
+Directory drawables was created
+Directory icons was created
+Directory main was created
+File Main.java was created
+File Utils.java was created
